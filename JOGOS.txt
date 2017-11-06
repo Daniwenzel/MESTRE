@@ -3,6 +3,7 @@ AQUI TEM A LISTA DOS JOGOS DE CADA ALUNO:
 -
 -
 -
+
 Daniel
 World of WarCraft: Battle for Azeroth
 
@@ -35,4 +36,17 @@ Ayrton
 8- Need For Speed Most Wanted
 9- Tibia
 10- Top Gear 2
+
+JOÃO:
+
+-Paladins
+-Warframe
+-Cuphead
+-PES 17
+-Battlerite
+-Ori and The Blind Forest
+-For Honor
+-Life is Strange
+-Life is Strange: Before the Storm
+-South Park: The Stick of Truth
 
