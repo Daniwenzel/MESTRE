@@ -1,6 +1,5 @@
 AQUI TEM A LISTA DOS JOGOS DE CADA ALUNO:
 
-
 -
 -
 -
@@ -43,7 +42,6 @@ Ayrton
 10- Top Gear 2
 
 JOÃO:
-
 -Paladins
 -Warframe
 -Cuphead
@@ -79,3 +77,15 @@ Nicolas:
 - Diablo III
 - Portal II
 
+
+(Lucas)
+- CS
+- BF
+- Call of Duty
+- GTA
+- Bioshock
+- Dead Space
+- Resident Evil
+- Skyrim
+- FIFA
+- Far Cry
